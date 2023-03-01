@@ -1,5 +1,4 @@
-# BSc-Project-Implementation-of-a-System-for-Describing-Images-with-AI-models-on-Mobile-Phones
-Presentation and Summary files for my BSc Project: Implementation of a System for Describing Images with AI models on Mobile Phones.
+Presentation and Summary files for my BSc thesis project: Design and implementation of a system for describing images with artificial intelligence models on mobile phones
 
 Android application connected to a sever to use AI models for object recognition and detection, image captioning and music genre suggestion based on objects.
 
