@@ -1,10 +1,6 @@
-Presentation and Summary files for my BSc thesis project: Design and implementation of a system for describing images with artificial intelligence models on mobile phones
+Presentation and Summary files for my BSc thesis project: Design and Implementation of an AI-powered Image Description System for Mobile Devices
+An Android application integrated with a server to utilize AI models for object recognition and detection, image captioning, and suggesting music genres based on identified objects.
 
-Android application connected to a sever to use AI models for object recognition and detection, image captioning and music genre suggestion based on objects.
-
-Back-end and Server: Implemented by Python and Flask under a microservice architecture and deployed by Docker.
-
-Front-end: Implemented as an Android application using Android Studio and Java.
-
-AI: Used saved object detection models from Tensorflow, Saved Image Captioning models based on the Show, Attend, and Tell method, and additional NLP methods to define word associations.
-
+Back-end and server: Implemented using Python and Flask within a microservice architecture, and deployed using Docker.
+Front-end: Developed as an Android application using Android Studio and Java.
+AI: Utilized pre-trained object detection models from TensorFlow, image captioning models based on the Show, Attend, and Tell method, and additional NLP techniques for word association.
